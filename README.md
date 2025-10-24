@@ -3,14 +3,14 @@ Coffee Shop Sales Dashboard This interactive dashboard visualizes key metrics: t
 
 
 
----
+
 
 ##  Power BI Project: Coffee Shop Sales Dashboard
 
 ###  Project Overview:
 This dashboard provides a clear and interactive overview of a coffee shop’s sales performance. It analyzes transaction volume, revenue by coffee type, payment preferences, and daily trends — helping business owners understand customer behavior and optimize operations.
 
----
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86a587be-3c08-48eb-b45d-b2f81a9daa04" />
 
@@ -34,7 +34,7 @@ This dashboard provides a clear and interactive overview of a coffee shop’s sa
   - Title: Sales Trend by Day  
   - Insight: Tracks both sales value and transaction count over time for operational planning
 
----
+
 
 ###  Tools & Techniques Used:
 - Power BI Desktop
@@ -43,7 +43,7 @@ This dashboard provides a clear and interactive overview of a coffee shop’s sa
 - DAX Measures: For calculating totals, averages, and percentages
 - Design Theme: Custom beige and brown palette for brand alignment
 
----
+
 
 ###  Outcome:
 This dashboard enables coffee shop managers to monitor performance, identify popular products, and evaluate payment trends. It demonstrates your ability to build clean, business-ready dashboards with actionable insights.
